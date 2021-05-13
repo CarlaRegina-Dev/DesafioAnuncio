@@ -20,6 +20,8 @@ Instruções:
 .quantidade máxima de cliques
 .quantidade máxima de compartilhamentos
 .filtrados por intervalo de tempo e cliente
+- Para utilizar o filtro passe do cliente e as datas de inicio e fim no formato dd/MM/yyyy.
+
 
 
 
