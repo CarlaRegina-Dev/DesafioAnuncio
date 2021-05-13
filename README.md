@@ -12,7 +12,7 @@ Para acessar o sistema utlize a rota http://localhost:8080/swagger-ui.html
 
 Instruções:  
 
-- O swagger da aplicação anuncio receber data no formato dd/MM/yyyy, dessa forma é mais agradavel para o usuario. 
+- O swagger da aplicação anuncio receber data no formato dd/MM/yyyy. 
 - O swagger da aplicação anuncio receber valores financeiros com casas décimais sepradas por ponto.
 - Utilize "listar anuncio por filtro" para saber o relatório Como pedido no desafio, contendo:
 .valor total investido
