@@ -1,6 +1,3 @@
-# DesafioAnuncio
- Desafio Anúncio Capgemini
- 
 <h3 align="center">
   Desafio Anúncio Capgemini.
 </h3>
